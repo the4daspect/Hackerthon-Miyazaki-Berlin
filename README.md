@@ -26,7 +26,7 @@ License Key: UNICORN_RECORDER_G6d55861b-f814-48da-8c8f-c057a3515ccc<br/>
 License Email: walchshofer@gtec.at<br/>
 
 Product Id: Unicorn Python<br/>
-License Key: UNICORN_PYTHON_G27147cdd-37b3-4394-ad32-16ffae7a63ac<br/>
+License Key: UNICORN_PYTHON_G3a4922e5-e315-44ad-8904-819f567f761a<br/>
 License Email: walchshofer@gtec.at<br/>
 
 Product Id: Unicorn e-puck<br/>
